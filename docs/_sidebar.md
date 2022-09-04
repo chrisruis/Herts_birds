@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- Live 2022 autumn migration plots
+- [Live 2022 autumn migration plots](/Species_plots/autumn.md)
 
     - [Redstart](/Species_plots/redstart.md)
     - [Spotted flycatcher](/Species_plots/spotted_flycatcher.md)
