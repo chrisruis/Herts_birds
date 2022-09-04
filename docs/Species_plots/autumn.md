@@ -1,3 +1,5 @@
+<img src="_figures/banner.png" width="1000">
+
 # Live autumn migration plots for 2022
 
 These pages show the expected autumn migration period and a live comparison of autumn migration in 2022 compared to previous years for a set of species
