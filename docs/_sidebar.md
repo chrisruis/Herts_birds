@@ -1,5 +1,7 @@
 <!-- docs/_sidebar.md -->
 
+- [Home](README.md)
+
 - [Live 2022 autumn migration plots](/Species_plots/autumn.md)
 
     - [Redstart](/Species_plots/redstart.md)
