@@ -6,6 +6,7 @@
     - [Spotted flycatcher](/Species_plots/spotted_flycatcher.md)
     - [Pied flycatcher](/Species_plots/pied_flycatcher.md)
     - [Whinchat](/Species_plots/whinchat.md)
+    - [Yellow wagtail](/Species_plots/yellow_wagtail.md)
 
 - Spring first record plots
 
