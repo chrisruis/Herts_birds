@@ -2,7 +2,9 @@
 
 - [Home](README.md)
 
-- [Wader tracker](/wader_tracker/wader_tracker.md)
+- Wader tracker
+
+    - [Tracker](/wader_tracker/wader_tracker.md)
 
 - Spring first record plots
 
