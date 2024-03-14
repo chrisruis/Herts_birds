@@ -106,3 +106,4 @@ venv.bak/
 .vscode/
 
 *.DS_Store
+*.swp
