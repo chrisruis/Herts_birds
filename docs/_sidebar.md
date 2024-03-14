@@ -2,18 +2,14 @@
 
 - [Home](README.md)
 
-- [Live 2022 autumn migration plots](/Species_plots/autumn.md)
-
-    - [Redstart](/Species_plots/redstart.md)
-    - [Spotted flycatcher](/Species_plots/spotted_flycatcher.md)
-    - [Pied flycatcher](/Species_plots/pied_flycatcher.md)
-    - [Whinchat](/Species_plots/whinchat.md)
-    - [Yellow wagtail](/Species_plots/yellow_wagtail.md)
+- Wader tracker
 
 - Spring first record plots
 
     - [2021](/First_record_plots/2021.md)
     - [2022](/First_record_plots/2022.md)
+    - [2023](/First_record_plots/2023.md)
+    - [2024](/First_record_plots/2024.md)
 
 - Species occurrence plots
 
