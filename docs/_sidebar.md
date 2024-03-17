@@ -4,7 +4,7 @@
 
 - Wader tracker
 
-    - [Tracker](/wader_tracker/common_waders.html)
+    - [Tracker](/wader_tracker/index.html)
 
 - Spring first record plots
 
