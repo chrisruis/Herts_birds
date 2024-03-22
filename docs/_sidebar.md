@@ -13,7 +13,7 @@
     - [2023](/First_record_plots/2023.md)
     - [2024](/First_record_plots/2024.md)
 
-- Species occurrence plots
+- [Species occurrence plots](/Species_distributions/species_distributions.md)
 
     - [Arctic tern](/Species_distributions/arctic_tern.md)
     - [Bar tailed godwit](/Species_distributions/bar_tailed_godwit.md)
