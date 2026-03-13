@@ -13,6 +13,7 @@
     - [2023](/First_record_plots/2023.md)
     - [2024](/First_record_plots/2024.md)
     - [2025](/First_record_plots/2025.md)
+    - [2026](/First_record_plots/2026.md)
 
 - Spring arrival trends
 
